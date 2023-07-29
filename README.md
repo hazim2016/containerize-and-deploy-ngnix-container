@@ -17,7 +17,16 @@ This project is a step by step tutorial on creating a nginx docker container
 
 - EC2 Instance
 - Docker Installed
-  
+
+<h2>Installation Steps</h2>
+
+<p>
+<img src="https://i.imgur.com/mIEtH1v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Install Web Platform Installer. Open the installation Add MySQL 5.5. Then add all PHP version x86 up untill 7.3.
+</p>
+<br />
 
 -Sign Up for a free 30 day subscription and create a username and password (tenant). You may access your portal at anytime by -visiting portal.azure.com; and logging in with your credentials.
 

@@ -24,7 +24,7 @@ This project is a step by step tutorial on creating a nginx docker container
 - Create Dockerimage
 - Deploy Container
 
-<p>
+<p align="center">
 <img src="https://imgur.com/DM3zv11.png"  alt="vi editor"/>
 </p>
 <p>

@@ -25,10 +25,10 @@ This project is a step by step tutorial on creating a nginx docker container
 - Deploy Container
 
 <p>
-<img src="https://imgur.com/DM3zv11.png" height="80%" width="80%" alt="vi editor"/>
+<img src="https://imgur.com/DM3zv11.png"  alt="vi editor"/>
 </p>
 <p>
-Install Web Platform Installer. Open the installation Add MySQL 5.5. Then add all PHP version x86 up untill 7.3.
+Web Platform Installer. Open the installation Add MySQL 5.5. Then add all PHP version x86 up untill 7.3.
 </p>
 <br />
 

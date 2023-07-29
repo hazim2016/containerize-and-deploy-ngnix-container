@@ -4,7 +4,7 @@
 
 This project is a step by step tutorial on creating a nginx docker container
 
-<h1>CREATING VIRTUAL MACHINE</h1>
+<h1>This project is a step by step tutorial on creating a nginx docker container</h1>
 <b>Creating Virtual Machines</b>
 
 <h2>Environments and Technologies Used</h2>

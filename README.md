@@ -32,3 +32,12 @@ Web Platform Installer. Open the installation Add MySQL 5.5. Then add all PHP ve
 </p>
 <br />
 
+<p align="center">
+<img src="https://imgur.com/0xf0WwI.png"  alt="Docker image file"/>
+</p>
+<p>
+Web Platform Installer. Open the installation Add MySQL 5.5. Then add all PHP version x86 up untill 7.3.
+</p>
+<br />
+
+

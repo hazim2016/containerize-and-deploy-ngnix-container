@@ -57,7 +57,7 @@ Web Platform Installer. Open the installation Add MySQL 5.5. Then add all PHP ve
 <br />
 
 <p align="center">
-<img src="https://imgur.com/ovFn6ae.png"  alt="image has been created"/>
+<img src="https://imgur.com/dEOXjN3.png"  alt="image has been created"/>
 </p>
 <p>
 Web Platform Installer. Open the installation Add MySQL 5.5. Then add all PHP version x86 up untill 7.3.

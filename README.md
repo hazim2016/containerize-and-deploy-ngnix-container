@@ -2,7 +2,7 @@
 <img src="https://imgur.com/55SACnN.png" alt="Docker"/>
 </p>
 # configure-vm
-This project is a step by step tutorial on creating a virtual machine using Azure
+This project is a step by step tutorial on creating a nginx docker container
 
 <h1>CREATING VIRTUAL MACHINE</h1>
 <b>Creating Virtual Machines</b>

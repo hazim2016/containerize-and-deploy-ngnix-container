@@ -76,7 +76,7 @@ Web Platform Installer. Open the installation Add MySQL 5.5. Then add all PHP ve
 <p align="center">
 <img src="https://imgur.com/jGYWCUj.png"  alt="image has been created"/>
 </p>
-<p>
+<p align="center">
 Congratulations you have launched your NGINX container.
 </p>
 <br />

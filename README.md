@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img src="https://imgur.com/55SACnN.png" alt="Docker"/>
 </p>
 # configure-vm
 This project is a step by step tutorial on creating a virtual machine using Azure

@@ -7,6 +7,16 @@ This project is a step by step tutorial on creating a nginx docker container
 <h1>CREATING VIRTUAL MACHINE</h1>
 <b>Creating Virtual Machines</b>
 
+<h2>Environments and Technologies Used</h2>
+
+- AWS Free tier account
+- Dockerhub
+- CLI
+
+<h2>Operating Systems Used </h2>
+
+- Windows Server 2022
+- Windows 10 (21H2)
 -Visit portal.azure
 
 -Sign Up for a free 30 day subscription and create a username and password (tenant). You may access your portal at anytime by -visiting portal.azure.com; and logging in with your credentials.

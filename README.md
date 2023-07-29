@@ -2,10 +2,9 @@
 <img src="https://imgur.com/55SACnN.png" alt="Docker"/>
 </p>
 
-This project is a step by step tutorial on creating a nginx docker container
 
 <p align="center">
-<h1>This project is a step by step tutorial on creating a nginx docker container</h1>
+<h1>What is Docker</h1>
 <b>Creating Virtual Machines</b>
 
 <h2>Environments and Technologies Used</h2>

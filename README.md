@@ -28,7 +28,7 @@
 <img src="https://imgur.com/DM3zv11.png"  alt="vi editor"/>
 </p>
 <p>
-Web Platform Installer. Open the installation Add MySQL 5.5. Then add all PHP version x86 up untill 7.3.
+The first step in creating your container is creating file using your vi editor. The file name will be Dockerfile. You have to make sure your Dockerfile has a capital first letter. 
 </p>
 <br />
 

@@ -41,10 +41,10 @@ From Ubunto is the base operating system(OS) that we will be using for our image
 <br />
 
 <p align="center">
-<img src="https://imgur.com/lrpehuw.png"  alt="vi editor"/>
+<img src="https://imgur.com/lrpehuw.png"  alt="Docker build"/>
 </p>
 <p>
-Web Platform Installer. Open the installation Add MySQL 5.5. Then add all PHP version x86 up untill 7.3.
+This command will build out the Dockerimage by using the Dockerfile we have created.
 </p>
 <br />
 

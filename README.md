@@ -36,7 +36,7 @@ The first step in creating your container is creating file using your vi editor.
 <img src="https://imgur.com/SrDFtQa.png"  alt="Docker image file"/>
 </p>
 <p>
-Web Platform Installer. Open the installation Add MySQL 5.5. Then add all PHP version x86 up untill 7.3.
+From Ubunto is the base operating system(OS) that we will be using for our image. Then we will update the ubunto to the latest version with the apt-get update command. then we will install the nginx on that operating system.
 </p>
 <br />
 

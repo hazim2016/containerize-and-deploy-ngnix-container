@@ -28,7 +28,7 @@
 <img src="https://imgur.com/DM3zv11.png"  alt="vi editor"/>
 </p>
 <p>
-The first step in creating your container is creating file using your vi editor. The file name will be Dockerfile. You have to make sure your Dockerfile has a capital first letter. 
+The first step in creating your container is creating file using your vi editor. The file name will be Dockerfile. This step is critical because it allows you to create your docker image.
 </p>
 <br />
 

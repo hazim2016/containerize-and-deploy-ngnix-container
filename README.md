@@ -68,7 +68,7 @@ You should see two Images when you type docker images. I have three showing beca
 <img src="https://imgur.com/8ExVDAS.png"  alt="image has been created"/>
 </p>
 <p>
-Web Platform Installer. Open the installation Add MySQL 5.5. Then add all PHP version x86 up untill 7.3.
+This command run docker run in detached mode with port mapping with our server side and nginx server side nginx default port is port 80. When we run this command the nginx container will be launched on our public ip address through port 80.
 </p>
 <br />
 

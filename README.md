@@ -49,10 +49,10 @@ This command will build out the Dockerimage by using the Dockerfile we have crea
 <br />
 
 <p align="center">
-<img src="https://imgur.com/EdAvsDI.png"  alt="vi editor"/>
+<img src="https://imgur.com/EdAvsDI.png"  alt="Successfully built"/>
 </p>
 <p>
-Web Platform Installer. Open the installation Add MySQL 5.5. Then add all PHP version x86 up untill 7.3.
+After the Docker build . command is run you should see a successfully built with your image Id.
 </p>
 <br />
 

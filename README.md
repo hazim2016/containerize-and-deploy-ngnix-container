@@ -28,7 +28,7 @@
 <img src="https://imgur.com/DM3zv11.png"  alt="vi editor"/>
 </p>
 <p>
-The first step in creating your container is creating file using your vi editor. The file name will be Dockerfile. This step is critical because it allows you to create your docker image.
+The first step in creating your container is creating file using your vi editor. The file name will be Dockerfile. This step is critical because it allows you to create your docker image. 
 </p>
 <br />
 
@@ -36,7 +36,7 @@ The first step in creating your container is creating file using your vi editor.
 <img src="https://imgur.com/SrDFtQa.png"  alt="Docker image file"/>
 </p>
 <p>
-From Ubunto is the base operating system(OS) that we will be using for our image. Then we will update the ubunto to the latest version with the apt-get update command. then we will install the nginx on that operating system.
+From Ubunto is the base operating system(OS) that we will be using for our image. Then we will update the ubunto to the latest version with the apt-get update command. then we will install the nginx on that operating system. CMD command acts as userdata meaning that it will run after the nginx is installed. This commanf will start the inginx after it is installed onto the operating system.
 </p>
 <br />
 

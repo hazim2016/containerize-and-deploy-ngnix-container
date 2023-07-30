@@ -44,7 +44,7 @@ From Ubunto is the base operating system(OS) that we will be using for our image
 <img src="https://imgur.com/lrpehuw.png"  alt="Docker build"/>
 </p>
 <p>
-This command will build out the Dockerimage by using the Dockerfile we have created.
+This command will build out the Dockerimage by using the Dockerfile we have created. It will run the commands one by one.
 </p>
 <br />
 

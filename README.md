@@ -60,7 +60,7 @@ After the Docker build . command is run you should see a successfully built with
 <img src="https://imgur.com/dEOXjN3.png"  alt="image has been created"/>
 </p>
 <p>
-Web Platform Installer. Open the installation Add MySQL 5.5. Then add all PHP version x86 up untill 7.3.
+You should see two Images when you type docker images. I have three showing because in my vi editor I had the an error I put a colon instead of a semicolon and when I went to use docker run to create my container it would kill my container instantly.
 </p>
 <br />
 

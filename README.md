@@ -4,8 +4,8 @@
 
 
 <p align="center">
-<h1>What is Docker</h1>
-<b>Creating Virtual Machines</b>
+<h1>Mission Objective and Overview</h1>
+<b> The mission objective is to containerize and deploy an ngnix web server using docker. </b>
 
 <h2>Environments and Technologies Used</h2>
 
